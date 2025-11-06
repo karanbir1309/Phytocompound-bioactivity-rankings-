@@ -1,0 +1,9 @@
+compound_name,Caco2_permeability_log,HIA_probability,Pgp_substrate,Pgp_inhibitor,VDss_L_kg,BBB_penetration,PPB_percent,CYP3A4_substrate,CYP3A4_inhibitor,CYP2D6_inhibitor,half_life_hours,clearance_mL_min_kg,hERG_inhibition,hepatotoxicity,AMES_toxicity,LD50_oral_mg_kg,logP,logS,TPSA
+Diosgenin,-5.78,0.75,Yes,Yes,2.74,Low,86.3,No,No,Yes,7.5,23.5,Medium,Negative,Negative,1804,-0.03,-2.21,169.3
+Dioscin,-4.73,0.91,No,No,0.97,Medium,85.6,No,Yes,No,9.8,45.8,Low,Negative,Negative,2087,0.83,-4.51,125.5
+Protodioscin,-5.03,0.84,No,No,1.11,Low,76.3,No,Yes,No,10,48.7,High,Negative,Negative,1854,0.71,-4.89,137.5
+Beta-sitosterol,-4.99,0.62,Yes,No,2.77,Low,74.2,No,No,No,14.2,31.7,Low,Negative,Negative,4114,1.82,-2.05,103.8
+Trigonelline,-4.37,0.88,Yes,No,1.77,Low,94.9,No,Yes,No,2.4,28,Low,Negative,Negative,3609,1.32,-2.19,62
+Gracillin,-5.32,0.64,Yes,Yes,2.69,Low,89.1,No,No,Yes,13.4,16.7,High,Positive,Negative,4472,0.13,-4.16,152.1
+Protogracillin,-4.31,0.9,No,No,2.72,Medium,97.1,No,No,No,15.3,5.4,Low,Negative,Negative,1224,2.29,-2.92,144.3
+Allantoin,-5.55,0.85,Yes,No,1.31,Medium,88.8,Yes,Yes,Yes,8.8,29.4,Low,Negative,Negative,3154,4.87,-3.54,185
